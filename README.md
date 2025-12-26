@@ -63,7 +63,7 @@ The framework operates through three distinct layers ensuring analytical depth a
 The deployment process handles environment setup and frontend-backend synchronization:
 
 ```bash
-git clone [https://github.com/seyhankokcu/umbra.git](https://github.com/seyhankokcu/umbra.git)
+git clone https://github.com/XariaCore/umbra.git
 cd umbra
 # Setup backend with llama.cpp models
 cd backend && pip install -r requirements.txt
