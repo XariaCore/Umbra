@@ -11,11 +11,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-BETA-yellow?style=for-the-badge&logo=beaker&logoColor=black" alt="Status: BETA" />
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+" />
+  <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 18+" />
+  <img src="https://img.shields.io/badge/FastAPI-003366?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React_Flow-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Flow" />
   <img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 14" />
   <img src="https://img.shields.io/badge/LLM-Llama.cpp-orange?style=for-the-badge&logo=ai&logoColor=white" alt="Llama.cpp" />
   <img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="GPLv3 License" />
 </div>
-
 
 ---
 
