@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+networkx
+langchain
+langchain-openai
+langgraph
+pydantic
+python-multipart
+requests
