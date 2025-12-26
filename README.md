@@ -21,15 +21,10 @@
 
 ## Application Overview
 
-<p align="center">
-  <img src="assets/1.png" width="420" alt="Umbra Overview">
-  <img src="assets/2.png" width="420" alt="Neural Graph View">
-</p>
+| ![Umbra Overview](assets/1.png) | ![Neural Graph View](assets/2.png) |
+|---------------------------------|-----------------------------------|
+| ![Code Inspector](assets/3.png) | ![Agent Control Panel](assets/4.png) |
 
-<p align="center">
-  <img src="assets/3.png" width="420" alt="Code Inspector">
-  <img src="assets/4.png" width="420" alt="Agent Control Panel">
-</p>
 
 ---
 
